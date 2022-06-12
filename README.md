@@ -1,5 +1,9 @@
 # Tic Tac Toe-AI
-A very simple Tic Tac Toe game where you control the X's and the AI controls the O's. The AI had never lost a single game in my tests.
+A very simple Tic Tac Toe game written in C++ which you control the X's and the AI controls the O's. The AI had never lost a single game in my tests.
+## Files
+It contains 2 files:
+  - "README.md", the introduction file.
+  - "TicTacToeAI.cpp", the game with AI.
 ## UI
 It's UI is like this:
 ```

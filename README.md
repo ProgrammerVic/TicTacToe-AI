@@ -5,7 +5,7 @@ It contains 2 files:
   - "README.md", the introduction file.
   - "TicTacToeAI.cpp", the game with AI.
 ## UI
-It's UI is very simple. It's like this:
+Its UI is very simple. It's like this:
 ```
 ...
 ...
